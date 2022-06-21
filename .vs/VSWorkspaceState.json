@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\website",
+    "\\website\\static",
+    "\\website\\static\\Images",
+    "\\website\\templates",
+    "\\__pycache__"
+  ],
+  "SelectedNode": "\\website\\templates\\home.html",
+  "PreviewInSolutionExplorer": false
+}
